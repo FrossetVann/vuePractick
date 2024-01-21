@@ -7,7 +7,7 @@ import MainPage from './views/MainPage.vue';
 </script>
 
 <template>
-  <div class="w-5/6 min-h-screen mx-auto bg-white rounded-xl mt-14 p-10 flex flex-col gap-8 shadow-lg">
+  <div class="w-5/6 min-h-screen mx-auto bg-white rounded-xl my-14 p-10 flex flex-col gap-8 shadow-lg">
     <Header/>
     <MainPage/>
   </div>

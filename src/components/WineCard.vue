@@ -17,7 +17,7 @@
     <img :src="image" alt="wine" class="h-full scale-90">
     </div>
     <div class="border-t border-slate-100 p-2 flex flex-col flex-1">
-      <h4>{{ title }}</h4>
+      <h4 class="text-lg ">{{ title }}</h4>
       <span class="text-slate-400">{{ color }}, </span>
       <span class="text-slate-400">{{ sugar }}, </span>
       <span class="text-slate-400">{{ alcohol }}% </span>
